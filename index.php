@@ -1,7 +1,7 @@
 <?php 
     $pageID	    = 'index';
     $headTitle	= 'Ariane Feldmann - Frontend.Developer by passion';
-    $pageTitle	= 'Make code <em>Beautiful</em>';
+    $pageTitle	= 'Make code <em>Embrace Vivid</em>';
 
     include 'includes/head.php';
     include 'includes/header/headerFront.php'; 
